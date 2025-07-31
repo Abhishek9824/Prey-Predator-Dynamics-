@@ -7,7 +7,7 @@ cycle continues in a repeating pattern. This model shows how the populations of 
 predators are closely linked and constantly affect each other, highlighting the balance and
 connectedness of nature.
 
-## preypredatormodel_py.py
+## preypredatormodel.py
 The mathematical prediction of the  model is a system of 2 coupled ordinary differential equation each representing one species in the ecosystem, one prey and other predator. These equations are based on Lotka-Volterra dynamics.
 The simulated dynamics of wolves and deer is an classic oscillating cycle where deer increase first as a function of vegetation availability then experience a time lagged increase in wolves as a consequence of ample amount of prey. Predation brings number of deer down which also cause a deline in wolves population.
 
