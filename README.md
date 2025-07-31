@@ -1,5 +1,5 @@
 # Prey-predator-dynamics-simulation
-My attempt to understand the prey-predator ecosystem oh three-species interaction. This project is based on system of Ordinary differential equation (ODEs). The mathematical prediction is done by Lotka-Volterra's equations. The prey-predator model describes the relationship between two groups of animals in nature
+My attempt to understand the prey-predator ecosystem of three-species interaction. This project is based on system of Ordinary differential equation (ODEs). The mathematical prediction is done by Lotka-Volterra's equations. The prey-predator model describes the relationship between two groups of animals in nature
 one prey and another predator. Once predators become plentiful, they eat more prey, causing
 the prey population to drop. With less food available, some predators can’t survive or have
 fewer babies, so their numbers shrink. This allows the prey to increase again, and the
